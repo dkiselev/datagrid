@@ -1,0 +1,122 @@
+:root {
+
+    /* background */
+    --back: #E5E5E5;
+
+    /* Primary Color */
+    --primary: #DB2B36;
+
+    /* Hover Color */
+    --hover: #C0212B;
+
+    /* Light Colors/Text */
+    --light-text: #343A40;
+
+    /* Light Colors/Gray 1 */
+    --light-gray-1: #FAFAFA;
+
+    /* Light Colors/Gray 2 */
+    --light-gray-2: #ECEEF0;
+
+    /* Light Colors/Gray 3 */
+    --light-gray-3: #E5E8EB;
+
+    /* Light Colors/Gray 4 */
+    --light-gray-4: #D9DEE2;
+
+    /* Light Colors/Gray 5 */
+    --light-gray-5: #CED4DA;
+
+    /* Light Colors/Gray 6 */
+    --light-gray-6: #AEB8C2;
+
+    /* Light Colors/Gray 7 */
+    --light-gray-7: #878F97;
+
+    /* Dark Colors/Text */
+    --dark-text: #FFFFFF;
+
+    /* Dark Colors/Gray 0 */
+    --dark-gray-0: #0E0F11;
+
+    /* Dark Colors/Gray 1 */
+    --dark-gray-1: #191C1F;
+
+    /* Dark Colors/Gray 2 */
+    --dark-gray-2: #212529;
+
+    /* Dark Colors/Gray 3 */
+    --dark-gray-3: #343A40;
+
+    /* Dark Colors/Gray 4 */
+    --dark-gray-4: #495057;
+
+    /* Dark Colors/Gray 5 */
+    --dark-gray-5: #868E96;
+
+    /* Additional Colors/Green */
+    --add-green: #82C91E;
+
+    /* Additional Colors/Blue */
+    --add-blue: #1971C2;
+
+    /* Additional Colors/Yellow */
+    --add-yellow: #FAB005;
+
+    /* Pastels/Light Green */
+    --pastel-green-light: #F4FCE3;
+
+    /* Pastels/Light Red */
+    --pastel-red-light: #FFF5F5;
+    /* Pastels/Light Blue */
+
+    --pastel-blue-light: #E7F5FF;
+
+    /* Pastels/Green */
+    --pastel-green: #E9FAC8;
+
+    /* Pastels/Red */
+    --pastel-red: #FFE3E3;
+
+    /* Pastels/Blue */
+    --pastel-blue: #D0EBFF;
+
+    /* Pastels/Yellow */
+    --pastel-yellow: #FFF3BF;
+
+    /* Pastels/Dark Red */
+    --pastel-red-dark: #FFC9C9;
+
+    /* Pastels/Dark Yellow */
+    --pastel-yellow-dark: #FFEC99;
+
+    /* Pastels/Active Text Field */
+    --pastel-active: #228BE6;
+}
+
+
+/* Window Shadow */
+
+/* background: #C4C4C4;
+box-shadow: 0px 2px 12px rgba(33, 37, 41, 0.25); */
+
+
+/* Card Shadow */
+
+/* background: #C4C4C4;
+box-shadow: 0px 4px 20px rgba(206, 212, 218, 0.25); */
+
+/* Active Card Shadow */
+
+/* background: #C4C4C4;
+box-shadow: 0px 6px 20px rgba(206, 212, 218, 0.4); */
+
+/* Outer Border */
+
+/* background: #C4C4C4;
+box-shadow: 0px 8px 25px -10px rgba(33, 37, 41, 0.6), 0px 0px 0px 1px #0E0F11; */
+
+/* Small Window Shadow */
+
+/* background: #D9D9D9;
+box-shadow: 0px 8px 25px -10px rgba(33, 37, 41, 0.3); */

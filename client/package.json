@@ -1,0 +1,15 @@
+{
+  "name": "ui",
+  "version": "1.0.0",
+  "author": "dk",
+  "source": "src/index.html",
+  "_browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "start": "parcel",
+    "prebuild": "rm -rf dist",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "latest"
+  }
+}
