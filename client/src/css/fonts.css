@@ -1,0 +1,130 @@
+h1 {
+    font-family: 'GolosTextWebVF';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+h2 {
+    font-family: 'GolosTextWebVF';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+h3 {
+    font-family: 'GolosTextWebVF';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+h3.selected {
+    font-weight: 500;
+}
+
+.p {
+    font-family: 'GolosTextWebVF';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 28px;
+}
+
+
+/* Footnote */
+.footnote {
+    font-family: 'GolosTextWebVF';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+/* Menu/Header */
+.menu-header {
+    font-family: 'GolosTextWebVF';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+/* Menu/Main Text */
+.menu-text {
+    font-family: 'GolosUIWebVF';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+/* Menu/selected */
+.menu-text.selected {
+    font-weight: 500;
+}
+
+/* Menu/Footnote */
+.menu.footnote{
+    font-family: 'GolosUIWebVF';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 20px;
+}
+
+/* Button/Default */
+.button.default {
+    font-family: 'GolosUIWebVF';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+/* Button/Additional */
+.button.additional {
+    font-family: 'GolosUIWebVF';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+/* Regular Text/Default */
+.regular-text {
+    font-family: 'GolosUIWebVF';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+/* Regular Text/Bold Title */
+.regular-text.bold {
+    font-weight: 500;
+}
+
+
+/* Regular Text/Math Symbols */
+/* font-family: 'Roboto Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+ */
+
+.GolosText {
+    font-family: 'GolosTextWebVF';
+    font-weight: normal;
+    font-style: normal;
+}
+
+.GolosUI {
+    font-family: 'GolosUIWebVF';
+    font-weight: normal;
+    font-style: normal;
+}
